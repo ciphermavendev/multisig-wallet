@@ -1,4 +1,4 @@
-# multisig-wallet# Multi-Signature Wallet
+# Multi-Signature Wallet
 
 A secure Ethereum multi-signature wallet smart contract implementation that requires multiple confirmations for transaction execution.
 
